@@ -12,8 +12,8 @@
 
 - *It took me around 8 hours to complete the webpage.*
 
-# Live link of projects:
- [project 06]()
+
+# [Live project 06](https://soft-begonia-f5b220.netlify.app/)
 
  ### Preview:
 
